@@ -1,5 +1,6 @@
 mountpoints:
   /:
-    url: "https://author-p49663-e268947.adobeaemcloud.com/bin/franklin.delivery/jeffreyvandenbossche/eds-aem/main"
+#    url: "https://author-p49663-e268947.adobeaemcloud.com/bin/franklin.delivery/jeffreyvandenbossche/eds-aem/main"
+    url: "https://drive.google.com/drive/folders/1jxfmmr2ANFv4bKoSS6CixA-6qcq_A2V9"
     type: "markup"
     suffix: ".html"
